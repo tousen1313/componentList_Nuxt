@@ -1,4 +1,4 @@
-# /componentList_Nuxt
+# componentList_Nuxt
 
 ---
 ### 目的

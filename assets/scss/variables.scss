@@ -1,0 +1,18 @@
+/* color */
+
+$black: #000;
+$white: #FFF;
+
+$blue-gray: #354d5e;
+$green-gray: #475a45;
+$green-gray-light: #408c28;
+
+@keyframes fadein {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+.g-text-style {
+  color: #fff;
+    text-shadow: 0 0 7px #fff, 0 0 20px #06d8d7, 0 0 23px #06d8d7;
+}
